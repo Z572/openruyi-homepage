@@ -51,6 +51,14 @@
     "message": "本节提供了关于如何安装 openRuyi 的指南。",
     "description": "The generated-index page description for category 'How to install' in sidebar 'docSidebar'"
   },
+  "sidebar.docSidebar.category.Desktop Environments": {
+    "message": "桌面环境",
+    "description": "The label for category 'Desktop Environments' in sidebar 'docSidebar'"
+  },
+  "sidebar.docSidebar.category.Desktop Environments.link.generated-index.description": {
+    "message": "本节提供了关于如何使用和自定义 openRuyi 所提供的桌面环境的指南。",
+    "description": "The generated-index page description for category 'Desktop Environments' in sidebar 'docSidebar'"
+  },
   "sidebar.docSidebar.category.openRuyi RISC-V Firmware Interface Specification": {
     "message": "openRuyi RISC-V 固件接口规范",
     "description": "The label for category 'openRuyi RISC-V Firmware Interface Specification' in sidebar 'docSidebar'"
